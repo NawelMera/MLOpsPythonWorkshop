@@ -12,7 +12,7 @@ env:
   NODE_VERSION: 18
   AZURE_LOCATION: "northeurope"
   AZURE_RESOURCE_GROUP_NAME: "azure-ml-nawel"
-  AZURE_ML_WORKSPACE_NAME: "cats-dogs-nawel"
+  AZURE_ML_WORKSPACE_NAME: "cats-dogs-nawe"
   AZURE_WEBAPP_NAME: "cats-dogs-nawel"
   DELETE_WEBAPP: "false"
   DOCKER_API_IMAGE_NAME: "mlopspython-api"
